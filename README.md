@@ -16,6 +16,30 @@ Audio files are important source in Machine Learning for information extraction.
 > For this project - We aim to make the computer detect the genre of music (.mp3 file) with utmost accuracy
 
  
+ 
+# Introduction - 
+
+Automatic genre classification of music is an important topic in Music Information Retrieval with many interesting applications. A solution to genre classification would allow for machine tagging of songs, which could serve as metadata for building song recommenders. 
+
+There has been an explosion of musical content available on the internet. Some sites, such as Spotify and Pandora, carefully curate and manually tag the songs on their sites. Other sources, such as YouTube, have a wider variety of music, but many songs lack the metadata needed to be searched and accessed by users. One of the most important features of a song is its genre.
+
+Automatic genre classification would make hundreds of thousands of songs by local artists available to users and improve the quality of existing music recommenders on.
+
+In this project, we investigate the following question: Given a song, can we automatically detect its genre? We look at spectrogram of the audio file to determine its genre.
+
+
+
+# Structure for Genre Detection Project
+
+Our project is divided over 6 files named and described below :
+
+1) spectrogram_playmusic.ipynb -   Contains the spectrograms of distinct genres.
+2) load_fma_dataset.ipynb -        The FMA dataset is loaded & feature engineering was performed.                                                                       
+3) Convert_to_npz.ipynb -          Code to convert .mp3 music files to npz.
+4) CRNN_model.ipynb -              Deep Learning Model CRNN
+5) CNN_RNN_Parellel.ipynb -        Deep Learning Model Parallel CNN RNN
+6) Heuristics.ipynb -              Output based on above two deep learning models.
+
 
 # Data Sets -
 
