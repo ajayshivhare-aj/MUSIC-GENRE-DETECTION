@@ -6,13 +6,14 @@
 
 
 
+
 # Problem Statement -
 
 Audio files are important source in Machine Learning for information extraction. Music Information Retrieval - MIR is the interdisciplinary science of retrieving information from music. MIR is a small but growing field of research with many real-world applications. Those involved in MIR may have a background in musicology, psychoacoustics, psychology, academic music study, signal processing, informatics, machine learning, optical music recognition, computational intelligence or some combination of these.
 
  
 
->For this project - we aim to work towards MIR by classifying the audio - music files (i.e. specifically .mp3) into the popular music genres.
+> For this project - We aim to make the computer detect the genre of music (.mp3 file) with utmost accuracy
 
  
 
