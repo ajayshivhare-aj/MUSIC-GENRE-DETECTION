@@ -56,5 +56,3 @@ The Free Music Archive (FMA), an open and easily accessible dataset suitable for
 ## Reasons to convert the data into spectrogram - 
 > The spectrogram is a powerful tool to identify sound features either in real-time or in post-processing on recorded materials. Its utility however strongly depends on the type of audio material to be examined and on the accurate tuning of the analysis parameters. In some cases it is powerful enough to recognize the features of interest more accurately and objectively than human hearing.
 
- 
-Flowchart of Model
