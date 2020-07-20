@@ -1,6 +1,7 @@
 # Music Genre Detection using Python
 
 •	Converted Audio files into Spectrogram for chart pattern recognition.
+
 •	Utilized deep learning models such as CRNN and Parallel CNN & RNN to achieve accuracy of 68.9% and 70.6%.
 
 
